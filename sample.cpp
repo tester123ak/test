@@ -48,7 +48,7 @@ int main() {
     }
 
     // Print the longest palindromic subsequence
-    cout << "The longest palindromic subsequence is: ";
+    cout << "The longest palindromic subsequence is: that the particular  ";
     for (int k = lps.size() - 1; k >= 0; k--) {
         cout << lps[k] << " ";
     }
